@@ -1,0 +1,17 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Quentin Monmert",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
