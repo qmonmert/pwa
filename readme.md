@@ -7,3 +7,7 @@
 * git init
 
 * npm start
+
+* npm install -g firebase-tools
+* firebase init
+* firebase deploy
